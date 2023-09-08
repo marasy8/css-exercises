@@ -1,4 +1,5 @@
-.odd_elements .third_element {
+.odd_elements,
+.third_element {
     background-color:	#ffb6c1;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
