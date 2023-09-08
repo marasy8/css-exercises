@@ -1,16 +1,15 @@
-.odd_elements,
-.third_element {
+.odd_elements {
     background-color:	#ffb6c1;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.third_font {
+    font-size: 24px;
 }
 
 #second_element {
     color: rgb(0,0,255);
     font-size: 36px;
-}
-
-.third_element {
-    font-size: 24px;
 }
 
 #fourth_element {
